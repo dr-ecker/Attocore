@@ -68,3 +68,7 @@ The attocore assembler was written in an afternoon in python.  It is a fairly ca
 __The Attocore Will Return__
 
 __But You Have To Push All Zeroes Into ADDR First.__
+=======
+The attocore proper is contained entirely in cpu.v, but for usability it comes with a ROM, a RAM, an address selector, a test bench, and a sample program.  Other features planned will not be mentioned for fear of not getting them done.
+
+__The Attocore Will Return, But You Have To Push All Zeroes Into ADDR First.__
